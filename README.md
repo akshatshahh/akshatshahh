@@ -2,8 +2,6 @@
 <h3 align="center">A passionate full-stack developer studying Masters in Computer Science at University of Southern California</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatshahh" alt="akshatshahh" /></a> </p>
-
 - 🔭 I’m currently working on **new Portfolio Website**
 
 - 👯 I’m looking to collaborate on **Open Source Contribution**
