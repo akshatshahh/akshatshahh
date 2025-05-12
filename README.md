@@ -85,7 +85,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/akshatshahh/akshatshahh/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/akshatshahh/akshatshahh/snake.svg" alt="Snake animation" />
 
 ###
 
