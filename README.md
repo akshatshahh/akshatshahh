@@ -25,8 +25,3 @@
   <img src="https://streak-stats.demolab.com?user=akshatshahh&locale=en&mode=daily&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/akshatshahh/akshatshahh/output/snake.svg" alt="Snake animation" />
-
-###
