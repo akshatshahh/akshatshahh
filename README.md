@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://akshatshah.netlify.app](https://akshatshah.netlify.app)
 
-- 💬 Ask me about **react , angular , android**
-
 - 📫 How to reach me **akshatdi@usc.edu**
 
 - 📄 Know about my experiences [https://shorturl.at/VuAId](https://shorturl.at/VuAId)
@@ -29,6 +27,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/akshatshahh/akshatshahh/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/akshatshahh/akshatshahh/output/snake.svg" alt="Snake animation" />
 
 ###
