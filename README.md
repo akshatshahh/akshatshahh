@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshat Shah</h1>
+<h1 align="center">Hi, I'm Akshat Shah</h1>
 <h3 align="center">Graduate Research Assistant at USC IMSC · Ex-Microsoft SWE Intern · Full-Stack + ML Engineer · Available May 2026</h3>
 
 - I am currently building a crowdsourced ML data collection platform at USC's Integrated Media Systems Center (IMSC)
@@ -13,11 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akshatshahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshatshahh" height="30" width="40" /></a>
-  
-<a href="https://akshatshah.netlify.app" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white" alt="portfolio" height="30" />
-</a>
+<a href="https://linkedin.com/in/akshatshahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a><a href="https://akshatshah.netlify.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white" alt="Portfolio" height="30" /></a>
 </p>
 
 ## Technologies and Tools
