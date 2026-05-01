@@ -14,7 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akshatshahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshatshahh" height="30" width="40" /></a>
-
+  
+<a href="https://akshatshah.netlify.app" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white" alt="portfolio" height="30" />
+</a>
 </p>
 
 ## Technologies and Tools
@@ -64,11 +67,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akshatshahh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=akshatshahh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatshahh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+-->
 ---
 
 
