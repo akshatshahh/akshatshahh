@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Akshat Shah</h1>
-<h3 align="center">A passionate full-stack developer studying Masters in Computer Science at University of Southern California</h3>
+<h3 align="center">Graduate Research Assistant at USC IMSC · Ex-Microsoft SWE Intern · Full-Stack + ML Engineer · Available May 2026</h3>
 
+- I am currently building a crowdsourced ML data collection platform at USC's Integrated Media Systems Center (IMSC)
 
-- 🔭 I’m currently working on **new Portfolio Website**
+- I am looking to collaborate on full-stack and ML-adjacent open source projects
 
-- 👯 I’m looking to collaborate on **Open Source Contribution**
+- All of my projects are available at [https://akshatshah.netlify.app](https://akshatshah.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://akshatshah.netlify.app](https://akshatshah.netlify.app)
+- How to reach me: akshatshahh2003 [at] gmail [dot] com
 
-- 📫 How to reach me **akshatdi@usc.edu**
-
-- 📄 Know about my experiences [https://shorturl.at/VuAId](https://shorturl.at/VuAId)
+- Know about my experiences [https://shorturl.at/VuAId](https://shorturl.at/VuAId)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akshatshahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshatshahh" height="30" width="40" /></a>
+
 </p>
 
 ## Technologies and Tools
@@ -70,7 +70,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatshahh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akshatshahh&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
