@@ -9,7 +9,7 @@
 
 - How to reach me: akshatshahh2003 [at] gmail [dot] com
 
-- Know about my experiences [https://shorturl.at/VuAId](https://shorturl.at/VuAId)
+- Know about my experiences  [View here](https://drive.google.com/file/d/1-zL8GF0OYOU8MY1Ptx2cGSzl4Q3kRkQ2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
