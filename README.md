@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://akshatshah.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://akshatshah.netlify.app/resume"><img src="https://img.shields.io/badge/Resume-EAB308?style=for-the-badge&logo=readdotcv&logoColor=black" alt="Resume" /></a>
+  <a href="https://akshatshah.tech"><img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://akshatshah.tech/resume"><img src="https://img.shields.io/badge/Resume-EAB308?style=for-the-badge&logo=readdotcv&logoColor=black" alt="Resume" /></a>
   <a href="https://linkedin.com/in/akshatshahh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
   <a href="mailto:akshatshahh2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -29,13 +29,13 @@ I build backend and AI systems that hold up in production.
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| **[POI Game](https://akshatshah.netlify.app/projects/poi-game)** · [live](https://poi-game.vercel.app) | Gamified labeling platform that turns GPS visits into ML training data, with a consensus engine that locks each label | React, FastAPI, PostGIS |
-| **[The Offline Interrogator](https://akshatshah.netlify.app/projects/offline-interrogator)** | Local-first AI mock interviewer on open-weight Gemma, with Mastra tools and strict Zod-validated scoring | TypeScript, Ollama, Mastra |
+| **[POI Game](https://akshatshah.tech/projects/poi-game)** · [live](https://poi-game.vercel.app) | Gamified labeling platform that turns GPS visits into ML training data, with a consensus engine that locks each label | React, FastAPI, PostGIS |
+| **[The Offline Interrogator](https://akshatshah.tech/projects/offline-interrogator)** | Local-first AI mock interviewer on open-weight Gemma, with Mastra tools and strict Zod-validated scoring | TypeScript, Ollama, Mastra |
 | **Deep Research Agent** · 🔒 private · [request a walkthrough](mailto:akshatshahh2003@gmail.com?subject=Code%20walkthrough%3A%20Deep%20Research%20Agent) | Claude tool-use agent that decomposes questions, searches the web and vector memory, and stays under $0.05 per session | Python, FastAPI, Claude API, ChromaDB |
-| **[Local Events](https://akshatshah.netlify.app/projects/local-events)** | Live event search with Stripe reservations that cannot oversell under concurrent holds | FastAPI, PostgreSQL, Stripe |
+| **[Local Events](https://akshatshah.tech/projects/local-events)** | Live event search with Stripe reservations that cannot oversell under concurrent holds | FastAPI, PostgreSQL, Stripe |
 | **[Trail Whisperer](https://github.com/akshatshahh/trail-whisperer)** | Offline trail companion: BirdNET and local Gemma identify birds and plants, with Atlas vector search | Python, Ollama, MongoDB Atlas |
 
-<sub>Case studies cover the architecture and key engineering decisions. [See all 13 projects →](https://akshatshah.netlify.app/projects)</sub>
+<sub>Case studies cover the architecture and key engineering decisions. [See all 13 projects →](https://akshatshah.tech/projects)</sub>
 
 ### Open source
 
@@ -56,7 +56,7 @@ I build backend and AI systems that hold up in production.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/45198) ★ 61k: fix(router): re-pin stale session pin when pinned deployment is unhealthy
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope/pull/3117) ★ 33k: fix(tool): stop suggesting tool-wide allow rules for base tools
 
-<sub>12 pull requests shipped across 14 projects · updated Oct 13, 2026 · [All contributions →](https://akshatshah.netlify.app/open-source)</sub>
+<sub>12 pull requests shipped across 14 projects · updated Oct 13, 2026 · [All contributions →](https://akshatshah.tech/open-source)</sub>
 <!-- OPEN-SOURCE:END -->
 
 ### Tech & tools
@@ -94,4 +94,4 @@ I build backend and AI systems that hold up in production.
 
 ---
 
-<p align="center"><sub>Akshat Shah · Software Engineer and AI Engineer in Los Angeles, CA · <a href="https://akshatshah.netlify.app">akshatshah.netlify.app</a></sub></p>
+<p align="center"><sub>Akshat Shah · Software Engineer and AI Engineer in Los Angeles, CA · <a href="https://akshatshah.tech">akshatshah.tech</a></sub></p>
