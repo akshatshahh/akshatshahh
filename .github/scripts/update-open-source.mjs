@@ -62,7 +62,7 @@ const section = [
   ...merged.slice(0, SHOW_MERGED).map(line),
   "",
   ...(open.length ? ["**In review**", ...open.slice(0, SHOW_IN_REVIEW).map(line), ""] : []),
-  `<sub>${merged.length} pull requests shipped across ${projects} projects · updated ${today} · [All contributions →](https://akshatshah.netlify.app/open-source)</sub>`,
+  `<sub>${merged.length} pull requests shipped across ${projects} projects · updated ${today} · [All contributions →](https://akshatshah.tech/open-source)</sub>`,
   END,
 ].join("\n")
 
