@@ -56,7 +56,7 @@ I build backend and AI systems that hold up in production.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/45198) ★ 62k: fix(router): re-pin stale session pin when pinned deployment is unhealthy
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope/pull/3117) ★ 34k: fix(tool): stop suggesting tool-wide allow rules for base tools
 
-<sub>14 pull requests shipped across 14 projects · updated Oct 20, 2026 · [All contributions →](https://akshatshah.tech/open-source)</sub>
+<sub>14 pull requests shipped across 15 projects · updated Oct 21, 2026 · [All contributions →](https://akshatshah.tech/open-source)</sub>
 <!-- OPEN-SOURCE:END -->
 
 ### Tech & tools
