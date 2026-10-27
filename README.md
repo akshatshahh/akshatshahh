@@ -54,9 +54,9 @@ I build backend and AI systems that hold up in production.
 **In review**
 - [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/45889) ★ 62k: feat(router): yield session-affinity pin when pinned deployment is saturated
 - [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/45198) ★ 62k: fix(router): re-pin stale session pin when pinned deployment is unhealthy
-- [payloadcms/payload](https://github.com/payloadcms/payload/pull/19061) ★ 46k: fix: resetPassword should reject a custom validator returning false
+- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope/pull/3117) ★ 34k: fix(tool): stop suggesting tool-wide allow rules for base tools
 
-<sub>14 pull requests shipped across 17 projects · updated Oct 26, 2026 · [All contributions →](https://akshatshah.tech/open-source)</sub>
+<sub>14 pull requests shipped across 16 projects · updated Oct 27, 2026 · [All contributions →](https://akshatshah.tech/open-source)</sub>
 <!-- OPEN-SOURCE:END -->
 
 ### Tech & tools
