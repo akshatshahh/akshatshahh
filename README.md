@@ -47,7 +47,7 @@ I build backend and AI systems that hold up in production.
 **Merged upstream** (most-starred first)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw/pull/165066) ★ 393k: fix(auto-reply): surface silent inbound media staging failures
 - [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup/pull/1554) ★ 9.8k: fix(net): use one shared loopback set for every outbound gate
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp/pull/2652) ★ 5.3k: fix(validation): tell agents how to fix rejected config tool calls
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp/pull/2652) ★ 5.4k: fix(validation): tell agents how to fix rejected config tool calls
 - [microsoft/PyRIT](https://github.com/microsoft/PyRIT/pull/3048) ★ 4.7k: FIX: preserve child-result links when execution fails in SequentialAttack
 - [reticlehq/reticle](https://github.com/reticlehq/reticle/pull/1562) ★ 1.3k: fix(init): add .reticle/ to .prettierignore when the project uses Prettier
 
@@ -56,7 +56,7 @@ I build backend and AI systems that hold up in production.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/45198) ★ 62k: fix(router): re-pin stale session pin when pinned deployment is unhealthy
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope/pull/3117) ★ 35k: fix(tool): stop suggesting tool-wide allow rules for base tools
 
-<sub>14 pull requests shipped across 16 projects · updated Oct 28, 2026 · [All contributions →](https://akshatshah.tech/open-source)</sub>
+<sub>14 pull requests shipped across 16 projects · updated Oct 29, 2026 · [All contributions →](https://akshatshah.tech/open-source)</sub>
 <!-- OPEN-SOURCE:END -->
 
 ### Tech & tools
