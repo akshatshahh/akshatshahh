@@ -46,17 +46,17 @@ I build backend and AI systems that hold up in production.
 <!-- OPEN-SOURCE:START -->
 **Merged upstream** (most-starred first)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw/pull/165066) ★ 394k: fix(auto-reply): surface silent inbound media staging failures
-- [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup/pull/1554) ★ 9.9k: fix(net): use one shared loopback set for every outbound gate
+- [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup/pull/1554) ★ 10k: fix(net): use one shared loopback set for every outbound gate
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp/pull/2652) ★ 5.4k: fix(validation): tell agents how to fix rejected config tool calls
 - [microsoft/PyRIT](https://github.com/microsoft/PyRIT/pull/3048) ★ 4.7k: FIX: preserve child-result links when execution fails in SequentialAttack
 - [reticlehq/reticle](https://github.com/reticlehq/reticle/pull/1562) ★ 1.3k: fix(init): add .reticle/ to .prettierignore when the project uses Prettier
 
 **In review**
-- [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/45889) ★ 62k: feat(router): yield session-affinity pin when pinned deployment is saturated
-- [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/45198) ★ 62k: fix(router): re-pin stale session pin when pinned deployment is unhealthy
-- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope/pull/3117) ★ 35k: fix(tool): stop suggesting tool-wide allow rules for base tools
+- [vercel/next.js](https://github.com/vercel/next.js/pull/101023) ★ 143k: fix(next-env): keep previously loaded env when a forced reload reads nothing
+- [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/45889) ★ 63k: feat(router): yield session-affinity pin when pinned deployment is saturated
+- [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/45198) ★ 63k: fix(router): re-pin stale session pin when pinned deployment is unhealthy
 
-<sub>14 pull requests shipped across 15 projects · updated Nov 1, 2026 · [All contributions →](https://akshatshah.tech/open-source)</sub>
+<sub>14 pull requests shipped across 18 projects · updated Nov 2, 2026 · [All contributions →](https://akshatshah.tech/open-source)</sub>
 <!-- OPEN-SOURCE:END -->
 
 ### Tech & tools
