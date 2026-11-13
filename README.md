@@ -52,11 +52,11 @@ I build backend and AI systems that hold up in production.
 - [reticlehq/reticle](https://github.com/reticlehq/reticle/pull/1562) ★ 1.3k: fix(init): add .reticle/ to .prettierignore when the project uses Prettier
 
 **In review**
-- [vercel/next.js](https://github.com/vercel/next.js/pull/101023) ★ 143k: fix(next-env): keep previously loaded env when a forced reload reads nothing
+- [vercel/next.js](https://github.com/vercel/next.js/pull/101023) ★ 144k: fix(next-env): keep previously loaded env when a forced reload reads nothing
 - [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/45889) ★ 63k: feat(router): yield session-affinity pin when pinned deployment is saturated
 - [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/45198) ★ 63k: fix(router): re-pin stale session pin when pinned deployment is unhealthy
 
-<sub>14 pull requests shipped across 17 projects · updated Nov 12, 2026 · [All contributions →](https://akshatshah.tech/open-source)</sub>
+<sub>14 pull requests shipped across 17 projects · updated Nov 13, 2026 · [All contributions →](https://akshatshah.tech/open-source)</sub>
 <!-- OPEN-SOURCE:END -->
 
 ### Tech & tools
