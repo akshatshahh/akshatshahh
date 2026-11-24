@@ -48,7 +48,7 @@ I build backend and AI systems that hold up in production.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw/pull/165066) ★ 395k: fix(auto-reply): surface silent inbound media staging failures
 - [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup/pull/1554) ★ 11k: fix(net): use one shared loopback set for every outbound gate
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp/pull/2652) ★ 8.1k: fix(validation): tell agents how to fix rejected config tool calls
-- [microsoft/PyRIT](https://github.com/microsoft/PyRIT/pull/3048) ★ 5.0k: FIX: preserve child-result links when execution fails in SequentialAttack
+- [microsoft/PyRIT](https://github.com/microsoft/PyRIT/pull/3048) ★ 5.1k: FIX: preserve child-result links when execution fails in SequentialAttack
 - [reticlehq/reticle](https://github.com/reticlehq/reticle/pull/1562) ★ 1.3k: fix(init): add .reticle/ to .prettierignore when the project uses Prettier
 
 **In review**
@@ -56,7 +56,7 @@ I build backend and AI systems that hold up in production.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/45889) ★ 64k: feat(router): yield session-affinity pin when pinned deployment is saturated
 - [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/45198) ★ 64k: fix(router): re-pin stale session pin when pinned deployment is unhealthy
 
-<sub>14 pull requests shipped across 17 projects · updated Nov 23, 2026 · [All contributions →](https://akshatshah.tech/open-source)</sub>
+<sub>14 pull requests shipped across 17 projects · updated Nov 24, 2026 · [All contributions →](https://akshatshah.tech/open-source)</sub>
 <!-- OPEN-SOURCE:END -->
 
 ### Tech & tools
